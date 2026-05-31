@@ -190,6 +190,16 @@ The latter is more so a suggestion so it brings more awareness to the project ea
 To add your own theme send a pull request containing your file in the appropriate directory,
 a screenshot in the readme and it's name, you can understand the syntax yourself its very easy
 
+---
+
+<div align="center">
+
+**Fork mantenido por [Hugo Perez-Vigo](https://hugopvigo.es)** · [@hugopvigo](https://x.com/hugopvigo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hugopvigo-181717?style=for-the-badge&logo=github)](https://github.com/Hugopvigo)
+
+</div>
+
 Support
 ---
 
